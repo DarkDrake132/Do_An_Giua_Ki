@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\bin\Release\PingPongGame.exe.config
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\bin\Release\PingPongGame.exe.manifest
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\bin\Release\PingPongGame.application
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\bin\Release\PingPongGame.exe
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\bin\Release\PingPongGame.pdb
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.Form1.resources
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.Properties.Resources.resources
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.TrustInfo.xml
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.exe.manifest
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.application
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.exe
+C:\Users\Dell\Desktop\18120156_18120169\PingPongGame\obj\Release\PingPongGame.pdb
